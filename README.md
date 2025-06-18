@@ -45,7 +45,7 @@ EnchantedWings/<br>
 
 ### 🔹 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/enchanted-wings.git
+git clone https://github.com/phani-kumar-sajja/Enchanted-Wings.git
 cd enchanted-wings
 ### 🔹 Step 2: Create a Virtual Environment
 
