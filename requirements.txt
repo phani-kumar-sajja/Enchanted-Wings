@@ -1,0 +1,9 @@
+Flask==2.3.3
+flaskwebgui==1.0.2
+tensorflow==2.12.0
+keras==2.12.0
+Pillow==9.5.0
+numpy==1.23.5
+opencv-python==4.7.0.72
+gunicorn==21.2.0
+werkzeug==2.3.7
